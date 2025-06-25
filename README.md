@@ -1,16 +1,14 @@
 live link : https://ph-assignment-10-job-portal.web.app/ <br>
 Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
 🔍 1. Overview (example):
-A modern, responsive web application designed for bookings of lawers of bangladesh . It provides a smooth user experience with clean UI, seamless navigation, and dynamic content rendering.
+A modern, responsive web application designed for those who are looking for job or those those need employee. It provides a smooth user experience with clean UI, seamless navigation, and dynamic content rendering.
 
 ⚙️ 2. Features (adjust based on your site):
 🔐 User authentication (sign-up/login)
 
-📦 Product or project listing
+📦 Job Posting 
 
-🛒 Add to cart or booking system
-
-🔍 Filter/search functionality
+🛒 Job Hunting
 
 📱 Fully responsive layout
 
@@ -20,15 +18,17 @@ A modern, responsive web application designed for bookings of lawers of banglade
 
 📊 Admin dashboard
 
-💻 3. Technology Stack (typical for Netlify-hosted projects):
+📱 Theme change (lightmode to darkmood)
+
+💻 3. Technology Stack:
 Frontend: React.js, React Router, Tailwind CSS or CSS modules
 
-State Management: Context API or Redux
+State Management: Context API
 
-Backend (if deployed separately): Node.js, Express.js
+Backend : Node.js, Express.js
 
 Database: MongoDB (for MERN apps)
 
-Auth: Firebase Auth, JWT, or custom
+Auth: Firebase Auth
 
-Hosting: Netlify (frontend), Vercel or Render (backend)
+Hosting: Netlify (frontend), Vercel (backend)
