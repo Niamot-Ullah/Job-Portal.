@@ -1,5 +1,5 @@
-live link : https://ph-assignment-10-job-portal.web.app/
-Repository link : 
+live link : https://ph-assignment-10-job-portal.web.app/ <br>
+Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
 🔍 1. Overview (example):
 A modern, responsive web application designed for bookings of lawers of bangladesh . It provides a smooth user experience with clean UI, seamless navigation, and dynamic content rendering.
 
