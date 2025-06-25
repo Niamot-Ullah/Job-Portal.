@@ -1,5 +1,3 @@
-live link : https://ph-assignment-10-job-portal.web.app/ <br>
-Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
 🔍 1. Overview (example):
 A modern, responsive web application designed for those who are looking for job or those those need employee. It provides a smooth user experience with clean UI, seamless navigation, and dynamic content rendering.
 
@@ -32,3 +30,6 @@ Database: MongoDB (for MERN apps)
 Auth: Firebase Auth
 
 Hosting: Netlify (frontend), Vercel (backend)
+
+live link : https://ph-assignment-10-job-portal.web.app/ <br>
+Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
