@@ -1,4 +1,4 @@
-🔍 1. Overview (example):
+🔍 1. Overview :
 A modern, responsive web application designed for those who are looking for job or those those need employee. It provides a smooth user experience with clean UI, seamless navigation, and dynamic content rendering.
 
 ⚙️ 2. Features (adjust based on your site):
@@ -25,11 +25,11 @@ State Management: Context API
 
 Backend : Node.js, Express.js
 
-Database: MongoDB (for MERN apps)
+Database: MongoDB
 
 Auth: Firebase Auth
 
-Hosting: Netlify (frontend), Vercel (backend)
+Hosting: Firebase (frontend), Vercel (backend)
 
 live link : https://ph-assignment-10-job-portal.web.app/ <br>
 Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
