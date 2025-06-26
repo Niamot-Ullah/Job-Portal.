@@ -12,6 +12,7 @@ const HeroSection = () => {
       
         {/* <FreelanceLottie /> */}
         <DotLottieReact
+      // src="https://lottie.host/62353857-a2fe-4f2e-8f89-5422080d1389/x4NgrkQkzX.lottie"
       src="https://lottie.host/62353857-a2fe-4f2e-8f89-5422080d1389/x4NgrkQkzX.lottie"
       loop
       autoplay

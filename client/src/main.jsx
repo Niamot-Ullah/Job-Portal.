@@ -28,7 +28,7 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>,
-        loader:()=>fetch('http://user-jobportal-server.vercel.app/featured-jobs'),
+        loader:()=>fetch('https://user-jobportal-server.vercel.app/featured-jobs'),
         hydrateFallbackElement:<Loading></Loading>
       },
       {

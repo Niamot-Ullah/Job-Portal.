@@ -31,5 +31,5 @@ Auth: Firebase Auth
 
 Hosting: Firebase (frontend), Vercel (backend)
 
-live link : https://ph-assignment-10-job-portal.web.app/ <br>
+live link : https://curious-biscuit-e53fe9.netlify.app/ <br>
 Repository link : https://github.com/Niamot-Ullah/Job-Portal. <br>
