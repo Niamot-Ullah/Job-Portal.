@@ -38,7 +38,7 @@ async function run() {
             const cursor = jobsCollection
                 .find({})
                 .sort({ deadline: -1 }) // Sort by deadline descending (latest first)
-                .limit(6);
+                .limit(8);
             const result = await cursor.toArray();
             res.send(result)
         })

@@ -15,7 +15,7 @@ const Jobs = () => {
             {/* page container  */}
             <div className='flex justify-center py-10'><BsStars className='text-yellow-600 mr-1' size={30} /> <span className='font-bold text-3xl md:text-5xl'>Discover Your Next Jobs</span></div>
             {/* card section  */}
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-full md:w-11/12 mx-auto py-5'>
+            <div className=' grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 w-11/12 mx-auto py-5'>
                 {/* card   */}
 
                 {

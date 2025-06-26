@@ -17,12 +17,12 @@ const Footer = () => {
   </nav>
   <nav>
     <h6 className="footer-title">Useful Links</h6>
-    <Link>Terms & Conditions</Link>
-    <Link>Privacy Policy</Link>
+    {/* <Link>Terms & Conditions</Link>
+    <Link>Privacy Policy</Link> */}
     <div className='flex gap-3 pt-2'>
-    <Link><FaFacebook size={25}/></Link>
-    <Link><FaInstagram size={25}/></Link>
-    <Link><FaLinkedin size={25}/></Link>
+    <Link to='https://facebook.com'><FaFacebook size={25}/></Link>
+    <Link to='https://instagram.com'><FaInstagram size={25}/></Link>
+    <Link to='https://www.linkedin.com/'><FaLinkedin size={25}/></Link>
 
     </div>
   </nav>
